@@ -1,3 +1,3 @@
-# 💌 mailgo Firefox extension
+# 💌 mailgo Firefox addon
 
-Official mailgo Firefox extension
+Official mailgo Firefox addon
