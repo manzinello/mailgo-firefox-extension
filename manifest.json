@@ -5,7 +5,8 @@
   "version": "0.9.10",
   "homepage_url": "https://mailgo.dev",
   "icons": {
-    "48": "icons/mailgo-48.png"
+    "48": "icons/mailgo-48.png",
+    "96": "icons/mailgo-96.png"
   },
   "content_scripts": [
     {
